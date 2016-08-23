@@ -1,0 +1,20 @@
+echo 'object Hi { def main(args: Array[String]) = println("Hi!") }' > hw.scala
+exit
+run
+compile
+run
+sbt.version
+version
+dir
+exit
+run
+~ compile
+package
+!:
+compile
+run
+compile
+clean compile
+compi;e
+compile
+package
